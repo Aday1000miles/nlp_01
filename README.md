@@ -1,6 +1,6 @@
 # 陶量的自我介绍
 
-![]([program_situation-1.png](https://github.com/Aday1000miles/nlp_01/blob/main/program_situation.png))
+![program_situation-1.png](https://github.com/Aday1000miles/nlp_01/blob/main/program_situation.png)
 
 大家好，我是**陶量**，我的身份是*人工智能专业学生*。以下是我的自我介绍：
 
